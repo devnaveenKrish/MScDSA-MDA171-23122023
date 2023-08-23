@@ -4,6 +4,6 @@ Name: Naveen Krishna
 
 Reg No: 23122023
 
-Class: MSc Data Science
+Class: MSc Data Science A
 
 E-mail: naveen.krishna@msds.christuniversity.in
