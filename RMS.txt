@@ -1,9 +1,9 @@
 
-Name = Naveen
-Date = 12-05-2023
+Name = naveen
+Date = 12-05-2002
 Item Code = chicken biriyani
-Quantity = 3
-Rate = 390
+Quantity = 2
+Rate = 300
 GuestCount = 3
 ----------------------------------------------------------------------------------------------------------- Roy
 Date = 04-09-2023
